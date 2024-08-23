@@ -1,12 +1,12 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Tiffany Alvarado"
 output: 
   html_document:
     number_sections: true
     toc: true
     toc_depth: 5
-date: "`r Sys.Date()`"   
+date: "`(August 21st 2024)`"   
 ---
 
 # A Little Survey
@@ -17,7 +17,8 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+ 
+  I attended four High schools around Orange County and one highschool in Big Bear lake. I graduated from Big Bear High school as a graduate of 2024. I believe English and math are similar because they go hand and hand. In High school my best subject was English and history.
 
      
 
@@ -26,7 +27,7 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+  I have a apple computer I just recently bought. On a scale from one to ten I would rate my computer skills a five as i am still learning. My connection to internet at my house is always super quick and is very good. 
    
 
 ## Others and You?   
@@ -34,6 +35,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 
 ### my answer     
   
+  I prefer my name tiffany 
    
  
 
@@ -44,7 +46,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+  I inspire to work with children as a psychologist. The subject I would have the best interest in is psychology as it is my major. I want my degree in psychology.
    
  
 
@@ -55,7 +57,7 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
+  I have only traveled California in the future i plan on going to Brazil. I have not been in the Military. I would choose to go to the Navy if i could because my uncle was in the navy.
    
   
 
@@ -68,7 +70,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  
+  This is my first time in math 115. I need to maintain a A average for my stats for my future plans.My future plan includes working with children as a psychologist.
    
  
 
@@ -77,7 +79,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 
 
-  
+      
 
 
 
